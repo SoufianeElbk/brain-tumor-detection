@@ -1,1 +1,1 @@
-# brain-tumor-detection
+A CNN model that can detect brain tumors.
